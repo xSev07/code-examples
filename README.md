@@ -1,5 +1,6 @@
 Ссылка на примеры написания кода/вёрстки
 
+- React, Redux, Axios: https://github.com/xSev07/shopping-cart
 - Вёрстка(SCSS), React, Jest: https://github.com/xSev07/feed-the-cat
 - Адаптивная вёрстка(SCSS), работа с сетью, ООП: https://github.com/xSev07/showcase-vanilla-js
 - Canvas: https://github.com/xSev07/random-chart
